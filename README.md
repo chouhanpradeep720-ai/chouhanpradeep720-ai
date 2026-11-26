@@ -53,41 +53,24 @@ designing CI/CD pipelines, and exploring cloud architecture.
 <div align="center">
 
 ### ☁️ Cloud Platforms & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark"/>
 
 ### 🐳 Containers & Orchestration
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark"/>
 
 ### 🔄 DevOps & CI/CD
-
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,linux&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,linux&theme=dark"/>
 
 ### 📊 Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
 
 ### 💻 Programming & Development
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python&theme=dark"/>
 
 ### 🗄️ Databases & Caching
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -236,20 +219,18 @@ Continuously improving my cloud and DevOps engineering skills.
 
 <div align="center">
 
-I'm always interested in connecting with developers,
-Cloud Engineers, and DevOps professionals.
+I'm always interested in connecting with developers, Cloud Engineers, and DevOps professionals.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/pradeep-chouhan-bb3646400/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pradeep_Chouhan-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep_Chouhan-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/chouhanpradeep720-ai">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ### 💡 Build • Automate • Deploy • Monitor
 
