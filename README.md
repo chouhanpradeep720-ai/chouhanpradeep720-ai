@@ -195,17 +195,13 @@ Continuously improving my cloud and DevOps engineering skills.
 
 ---
 
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=chouhanpradeep720-ai&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chouhanpradeep720-ai&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
 
 </div>
-
----
 
 ---
 
