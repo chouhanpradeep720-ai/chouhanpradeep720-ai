@@ -2,171 +2,103 @@
 
 <img src="assets/banner.svg" alt="Pradeep Chouhan | Cloud and DevOps Engineer" width="100%"/>
 
-<br/>
-
-<a href="https://github.com/chouhanpradeep720-ai">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/pradeep-chouhan-bb3646400/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=chouhanpradeep720-ai">
-  <img src="https://komarev.com/ghpvc/?username=chouhanpradeep720-ai&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-</a>
-
-<br/><br/>
-
-### CLOUD & DEVOPS | AWS | KUBERNETES | TERRAFORM | CI/CD
-
-*Building Cloud Infrastructure. Automating Deployments. Learning Continuously.*
+[![GitHub](https://img.shields.io/badge/GitHub-chouhanpradeep720--ai-111827?style=flat&logo=github)](https://github.com/chouhanpradeep720-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=chouhanpradeep720-ai&style=flat&color=2563eb&label=PROFILE+VIEWS)](https://github.com/chouhanpradeep720-ai)
 
 </div>
 
----
+## About
 
-## 👨‍💻 About Me
+I build and deploy cloud-native applications, automate infrastructure, and work on reliable delivery pipelines. My hands-on projects focus on AWS, Kubernetes, Terraform, containerization, CI/CD, and observability.
 
-I'm passionate about Cloud Computing and DevOps, with a focus on building cloud-native applications, automating infrastructure, and improving deployment workflows.
-
-I enjoy learning new technologies and applying them through hands-on projects, practical implementation, and troubleshooting.
-
-- ☁️ Exploring AWS cloud infrastructure and services.
-- ⚙️ Automating infrastructure using Terraform.
-- 🐳 Building and managing Docker containers.
-- ☸️ Deploying applications using Kubernetes and Amazon EKS.
-- 🔄 Creating CI/CD pipelines using GitHub Actions and Jenkins.
-- 📊 Implementing monitoring and observability using Prometheus, Grafana, and Loki.
-- 🔐 Exploring cloud security and infrastructure best practices.
+- **Cloud:** AWS infrastructure, networking, managed services
+- **Infrastructure as Code:** Terraform
+- **Containers:** Docker, Kubernetes, Amazon EKS
+- **CI/CD:** GitHub Actions, Jenkins
+- **Observability:** Prometheus, Grafana, Loki
+- **Interests:** Cloud security, automation, scalable architecture
 
 ---
 
-## 🛠️ Technical Skills
+## Technology Stack
 
 <div align="center">
 
-### Cloud & Infrastructure
+**Cloud & IaC**  
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
 
-<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" />
+**Containers & DevOps**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,git,nginx" />
 
-<br/><br/>
+**Monitoring**  
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
-### Containers & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,git,nginx&theme=dark" />
-
-<br/><br/>
-
-### Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
-<br/><br/>
-
-### Programming & Development
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python&theme=dark" />
-
-<br/><br/>
-
-### Databases & Cache
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+**Development & Databases**  
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python,postgres,mongodb,redis" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ☸️ Task Management — AWS EKS
+Full-stack task management application deployed on Kubernetes with AWS infrastructure.
 
-A full-stack task management application with an AWS-focused Kubernetes deployment architecture.
-
-**Key Technologies**
-
+**Highlights**
 - Amazon EKS & Kubernetes
 - Terraform & VPC Peering
-- Amazon RDS PostgreSQL
-- NGINX Ingress Controller
-- Karpenter
+- RDS PostgreSQL
+- NGINX Ingress & Karpenter
 - AWS Secrets Manager
 - Prometheus, Grafana & Loki
 
-<br/>
-
-<a href="https://github.com/chouhanpradeep720-ai/Task-Mgmt-App">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[Repository →](https://github.com/chouhanpradeep720-ai/Task-Mgmt-App)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌍 Wanderlust Mega Project
+Full-stack travel application and cloud deployment project.
 
-A full-stack travel application with an AWS cloud deployment architecture.
+**Cloud focus**
+- AWS S3 & CloudFront
+- Elastic Beanstalk (backend)
+- RDS PostgreSQL
+- ElastiCache Redis
+- Docker & environment configuration
 
-**Cloud Technologies**
-
-- Amazon S3 & CloudFront
-- Elastic Beanstalk — Backend deployment target
-- Amazon RDS PostgreSQL
-- Amazon ElastiCache Redis
-- Docker
-- AWS Secrets Manager
-- Environment configuration
-
-<br/>
-
-<a href="https://github.com/chouhanpradeep720-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[My repositories →](https://github.com/chouhanpradeep720-ai?tab=repositories)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 💬 Chattingo
+Full-stack real-time chat application.
 
-A full-stack chat application focused on messaging functionality and frontend/backend integration.
-
-**Technology Stack**
-
+**Technology focus**
 - React frontend
 - Java & Spring Boot backend
-- REST API integration
-- Messaging functionality
-- Docker Compose
-- Application testing and troubleshooting
+- REST APIs and real-time messaging
+- Docker Compose for local services
 
-<br/>
-
-<a href="https://github.com/chouhanpradeep720-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[My repositories →](https://github.com/chouhanpradeep720-ai?tab=repositories)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🎯 Current Focus
-
-Continuously improving my practical Cloud & DevOps skills.
-
-- AWS architecture and cloud services
+### Currently Building & Learning
+- Production-style AWS environments
 - Kubernetes deployment and scaling
+- CI/CD automation
 - Terraform infrastructure automation
-- CI/CD pipeline development
-- Docker and container orchestration
-- Monitoring and centralized logging
-- Cloud security and best practices
-- Linux administration and troubleshooting
+- Monitoring and troubleshooting
 
 </td>
 </tr>
@@ -174,56 +106,33 @@ Continuously improving my practical Cloud & DevOps skills.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chouhanpradeep720-ai&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouhanpradeep720-ai&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=chouhanpradeep720-ai&hide_border=true&background=0B1220&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chouhanpradeep720-ai&bg_color=0B1220&color=CBD5E1&line=3B82F6&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/chouhanpradeep720-ai">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pradeep-chouhan-bb3646400/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Open to learning, collaboration, and interesting Cloud & DevOps projects.**
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chouhanpradeep720-ai&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouhanpradeep720-ai&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 <br/>
+<img src="https://streak-stats.demolab.com?user=chouhanpradeep720-ai&hide_border=true&theme=transparent" alt="Contribution streak"/>
+</div>
 
-<sub>Building skills through hands-on projects and continuous learning.</sub>
+---
 
-<br/><br/>
+## Contribution Graph
 
-<img src="https://img.shields.io/badge/BUILD-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/AUTOMATE-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/DEPLOY-0B1220?style=flat-square"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chouhanpradeep720-ai&bg_color=00000000&color=64748b&line=3b82f6&point=60a5fa&area=true&area_color=3b82f6&hide_border=true" width="100%" alt="Contribution graph"/>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/chouhanpradeep720-ai)
+
+<!-- Add your LinkedIn profile URL and professional email for contact buttons -->
 
 </div>
+
+<div align="center"><sub>Learning continuously. Building practically. Automating thoughtfully.</sub></div>
